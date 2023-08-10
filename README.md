@@ -1,8 +1,5 @@
-### Olá👋
-
-Sou um estudante do IFRN apaixonado por tecnologia e inovação. Meu foco principal é no desenvolvimento de aplicações web, com conhecimento em linguagens de programação, como JavaScript, Python e Java. Atualmente, estou procurando por um estágio com foco na área de Backend para poder melhorar meu aprendizado e entrar no mercado de trabalho. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-
-
-Contatos:<br/>
-E-mail: luizfelipedpt@gmail.com <br/>
-Telefone: (84) 99429-6767
+## Hello There👋
+### Hey, I'm Luiz Felipe!  <img align="right" width="400" height="400" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+From Natal, Brazil.  <br>
+Analysis and Systems Development student at IFRN. I'm a Python lover and Back-end focused developer, but also have been delving deeper into front-end technologies. <br>
+Python - Typescript - Django - Next.js - Nest.js
