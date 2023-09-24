@@ -1,5 +1,3 @@
-## Hello There👋
-### Hey, I'm Luiz Felipe!  <img align="right" width="400" height="400" src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif">
-- Analysis and Systems Development student at IFRN.
-- I'm a Python lover and Back-end focused developer, but also have been delving deeper into Front-End technologies. <br>
-- Python - Typescript - Django - Next.js - Nest.js
+## Olá, tudo bem? 👋
+### Sou Luiz Felipe! <img align="right" width="400" height="400" src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif">
+- Estudante de Análise e Desenvolvimento de Sistemas no IFRN. Desenvolvedor python para web.
